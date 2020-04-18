@@ -1,0 +1,42 @@
+Sort-Task-Seconds: 600
+No-Ranking-Yet: '&cHenüz Sıralama Yapılmadı. Lütfen Daha Sonra Tekrar Deneyin.'
+Ranking: '&cŞuanda Sıralama Yapılıyor. Lütfen Daha Sonra Tekrar Deneyin.'
+GUI:
+  Title: '&8&nZenginler Sıralaması'
+  Empty-Glass-Color: -1
+  Skull:
+    Name: '&a{Position}. &6{Name}'
+    Lore:
+      - ''
+      - '&eŞuanki Parası: &b{Money}'
+      - '&eSıralamadaki Yeri: &b{Position}'
+      - ''
+  Next:
+    Name: '&aSonraki Sayfa -->'
+    Lore:
+      - '&cSonraki Sayfaya Gitmek İçin &6&nTıkla'
+  Before:
+    Name: '&6<-- Önceki Sayfa'
+    Lore:
+      - '&cÖnceki Sayfaya Gitmek İçin &6&nTıkla'
+  Exit:
+    Item: 166
+    Name: "&c&nMenü'den Çık"
+    Lore:
+      - ''
+      - '&6Sıralamaya Bakarken Diğerlerini mi Kıskandın ?.'
+      - ''
+  CurrentMoney:
+    Item: 371
+    Name: '&eŞuanki Paran: &b{Money}'
+    Lore:
+      - ''
+      - '&6Milyoner Olmak Sıkı Çalışma Gerektirir.'
+      - ''
+  CurrentOrder:
+    Item: 339
+    Name: '&eŞuanki Sıran: &b{Position}'
+    Lore:
+      - ''
+      - '&6Birinciliğe Doğru Emin Adımlarla İlerlemeye Devam Et.'
+      - ''

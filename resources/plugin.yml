@@ -1,0 +1,7 @@
+name: InfumiaBalanceGUI
+main: com.infumia.t3sl4.infumiabalance.InfumiaBalanceGUI
+version: 1.0
+depend: [Vault]
+commands:
+  baltop:
+    description: "Sunucudaki en zenginlerin listesi"
